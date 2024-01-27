@@ -1,4 +1,9 @@
-### Hi there 👋
+### Kia Ora 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsa6283&show_icons=true&theme=ambient_gradient)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsa6283&hide_progress=true&hide=jupyter%20notebook)
+
 
 <!--
 **hsa6283/hsa6283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
